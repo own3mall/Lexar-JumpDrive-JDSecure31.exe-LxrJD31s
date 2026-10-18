@@ -6,3 +6,5 @@ I'm using a 256MB one (JDS256-00-540G)
 Use JDSecure31.exe for best results on 32-bit Windows XP to regain access to your drive / access the encrypted partition.
 
 If that doesn't work, try JDSecure30.exe which is in the LexarJumpDriveSecure.zip file.
+
+Jdusb2.exe are drivers for Windows 98 and older.
